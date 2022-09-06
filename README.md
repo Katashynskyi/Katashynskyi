@@ -8,3 +8,8 @@ LSTM's, auto encoders, auto decoders.
 
 - 📫 You can reach me by [Telegram](https://telegram.me/morea_93) or via e-mail: zbrush_artist@ukr.net
 https://www.linkedin.com/in/yaroslav-katashynskyi-6a931414a/
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yaroslav-katashynskyi-6a931414a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </div>
