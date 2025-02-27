@@ -1,8 +1,5 @@
 ### Hello there 👋
-- ⚡ML engineer/Data engineer. 
-- [Project 0: Voice assistant |LLM|Transformers|SpeechBrain|Speech-to-text|EN-UA|](https://github.com/Katashynskyi/Voice_assistant_UA_EN)
-- [Project 1: Toxic detection classification](https://github.com/Katashynskyi/toxic_detection_classification)
-- [Project 2: Positive negative reviews classification](https://github.com/Katashynskyi/Positive_negative_reviews_classification)
+- ⚡ML engineer/Data engineer.
 - 🌱Deep knowledge in ML: LLM's, Agents, Ethical AI, Transformers, scikit-learn. Experience with classic ML algorithms (linear regression, logistic
 regression, SVMs, nearest neighbor, decision trees, PCA, and k-means clustering), also CNN's, RNN's,
 LSTM's, auto encoders, auto decoders.
